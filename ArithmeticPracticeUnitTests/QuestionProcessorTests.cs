@@ -2,7 +2,6 @@
 using ArithmeticPractice.Models;
 using ArithmeticPractice.QuestionProcessor;
 using NUnit.Framework;
-using System;
 
 namespace ArithmeticPracticeUnitTests
 {
